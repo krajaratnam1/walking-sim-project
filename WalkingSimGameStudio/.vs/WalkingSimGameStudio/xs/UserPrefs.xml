@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CF77CB1B-54DB-E24B-4104-7557466EC2CE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Master.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Master.cs" Line="255" Column="45" />
+      <File FileName="Assets/Scripts/Room.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WalkingSimGameStudio" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Master.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3d2e038b-fbf1-409f-bd40-6c6267584834" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
