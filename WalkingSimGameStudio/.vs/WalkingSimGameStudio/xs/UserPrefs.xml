@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{CF77CB1B-54DB-E24B-4104-7557466EC2CE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Master.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FadeCamera.cs">
     <Files>
-      <File FileName="Assets/Scripts/Master.cs" Line="255" Column="45" />
-      <File FileName="Assets/Scripts/Room.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Master.cs" Line="31" Column="11" />
+      <File FileName="Assets/Scripts/Room.cs" Line="24" Column="41" />
+      <File FileName="Assets/Scripts/FadeCamera.cs" Line="39" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +11,7 @@
           <Node name="WalkingSimGameStudio" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="Master.cs" selected="True" />
+                <Node name="FadeCamera.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -20,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3d2e038b-fbf1-409f-bd40-6c6267584834" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8b97585d-dcf8-4567-a2a9-33608bfbb67b" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

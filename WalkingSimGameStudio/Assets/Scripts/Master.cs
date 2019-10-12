@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Master : MonoBehaviour
 {
-    public GameObject playerA, playerB, firstPersonA, firstPersonB, thirdPersonA, thirdPersonB, playerABody, playerBBody;
+    public GameObject playerA, playerB, firstPersonA, firstPersonB, thirdPersonA, thirdPersonB, playerABody, playerBBody, playerBDream;
     public float aMS = 0.1f, bMS = 0.1f;
     public int room = 0, playerARoom = 0, playerBRoom = 0;
 
@@ -28,8 +28,9 @@ public class Master : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //
         initRoom0();
-        firstPersonA.transform.localEulerAngles = Vector3.zero;
+        //firstPersonA.transform.localEulerAngles = Vector3.zero;
     }
 
 
@@ -112,7 +113,7 @@ public class Master : MonoBehaviour
         maximumX = 360F;
         minimumY = -60F;
         maximumY = 60F;
-        playerBBody.SetActive(true);
+        playerBBody.SetActive(false);
         firstPersonA.SetActive(false);
         thirdPersonA.SetActive(false);
         thirdPersonB.SetActive(false);
