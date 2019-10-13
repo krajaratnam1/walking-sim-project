@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{CF77CB1B-54DB-E24B-4104-7557466EC2CE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FadeCamera.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/VietnamSubs.cs">
     <Files>
-      <File FileName="Assets/Scripts/Master.cs" Line="31" Column="11" />
+      <File FileName="Assets/Scripts/Master.cs" Line="26" Column="5" />
       <File FileName="Assets/Scripts/Room.cs" Line="24" Column="41" />
       <File FileName="Assets/Scripts/FadeCamera.cs" Line="39" Column="2" />
+      <File FileName="Assets/Scripts/DreamWalk.cs" Line="126" Column="18" />
+      <File FileName="Assets/Scripts/VietnamSubs.cs" Line="19" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +13,7 @@
           <Node name="WalkingSimGameStudio" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="FadeCamera.cs" selected="True" />
+                <Node name="VietnamSubs.cs" selected="True" />
               </Node>
             </Node>
           </Node>
